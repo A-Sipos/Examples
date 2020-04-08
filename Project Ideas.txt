@@ -1,0 +1,13 @@
+Question: Has the summer moved later into the year?
+Analysis:
+Create visualization for temperature changes in several areas over the last 20 years.
+
+Process Steps:
+Obtain weather data for various US Cities, making sure it can be accessed when needed
+Use Pandas to organize the data
+Create various visualizations to assist with understanding the data:
+	For each region:
+	- median hottest day of the year
+	- median week high temperature over year
+	
+
